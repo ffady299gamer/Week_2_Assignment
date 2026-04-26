@@ -341,8 +341,17 @@ footer p{
 .links li a{
     color: gray;
 }
+.links li {
+   padding: 8px 0px;
+}
 .social li a{
     color: gray;
+}
+.insta{
+    padding-left: 15px;
+}
+.twit{
+    padding-left: 15px;
 }
 button{
     height: 50px;
