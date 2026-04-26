@@ -1,0 +1,352 @@
+/*Test colors*/
+.test{
+    background-color: red;
+}
+
+/*General*/
+div img{
+    width: 100%;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+    
+}
+a{
+    text-decoration: none;
+
+}
+body{
+    margin: 0;
+}
+.clear{
+    clear: both;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+h2{
+    font-size: 30px;
+}
+
+/*Header*/
+
+.text-box{
+    width: 50%;
+}
+.text-box h1{
+    font-size: 70px;
+}
+.text-desc{
+     font-size: 25px;
+}
+.text-box ul li{
+    margin-inline: 10px;
+    margin-top: 30px;
+}
+.text-box ul li .learn-more{
+    color: black;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 7%;
+    
+}
+.text-box ul li .start-your-journey{
+    color:  white;
+    padding: 20px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 7%;
+    
+}
+.card-home{
+    width: 40%;
+}
+.card-home img{
+    border-radius: 5%;
+}
+.section-header-container{
+    margin: auto;
+    width: 70%;
+    margin-top: 30px;
+}
+
+.mini-text-box{
+    border-left: 3px;
+}
+.section-header{
+    margin-bottom: 70px;
+}
+/*Why choose us section*/
+.section-why-choose-us-container{
+    margin: auto;
+    width: 70%;
+    margin-top: 30px;
+}
+.text-box2{
+    text-align: center;
+}
+.more-image{
+    width: 50%;
+}
+.more-image img{
+    border-radius: 4%;
+}
+.section-why-choose-us{
+    margin-bottom: 70px;
+}
+.font-bigger{
+    font-size: 23px;
+}
+.font-h3{
+    font-size: 30px;
+}
+.features-text-box{
+    width: 40%;
+
+}
+.cards{
+    width: 30%;
+    border-radius: 3%;
+    box-sizing: border-box;
+}
+.ml-5{
+    margin-left: 5%;
+}
+.mr-5{
+    margin-right: 5%;
+}
+.bg-blue{
+    background-color: #789be9;
+}
+.bg-green{
+    background-color: rgb(101, 234, 101);
+}
+.bg-purple{
+    background-color: #f854f8;
+}
+.text-center{
+    text-align: center;
+}
+.square1{
+    width: 40px;
+    height: 40px;
+    background-color: #2563EB;
+    border-radius: 8%;
+    position: relative;
+    margin: auto;
+}
+.square2{
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 8%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+}
+.square3{
+    width: 40px;
+    height: 40px;
+    background-color: purple;
+    border-radius: 8%;
+    position: relative;
+    margin: auto;
+}
+
+.circle{
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+}
+
+.square{
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    border-radius: 8%;
+    position: relative;
+    margin: auto;
+
+}
+.gym-features{
+    margin-bottom: 260px;
+    margin-top: 30px;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.border-box{
+    box-sizing: border-box;
+}
+.comment-cards{
+    width: 30%;
+    border-radius: 5%;
+    padding: 30px 30px;
+    box-sizing: border-box;
+    
+}
+.comment-textbox img{
+    width: 70px;
+    border-radius: 50%;
+}
+.section-what-our-members-say{
+    width: 100%;
+    margin: auto;
+     background-color: whitesmoke
+}
+.section-what-our-members-say-container{
+    width: 70%;
+    margin:auto;
+    box-sizing: border-box;
+    padding-top: 40px;
+}
+.section-input{
+    width: 100%;
+}
+.section-input-container{
+    width: 50%;
+    margin: auto;
+}
+footer{
+    width: 100%;
+    box-sizing: border-box;
+}
+.footer-container{
+    width: 70%;
+    margin: auto;
+}
+.comment-text{
+    text-align: left;
+}
+
+.profile{
+    text-align: start;
+    margin-left: 5px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.border-green{
+    border: 3px solid green;
+}
+.border-blue{
+    border: 3px solid #2563EB;
+}
+.border-purple{
+    border: 3px solid purple;
+}
+.ml-25{
+    margin-left: 22.5%;
+}
+.mr-25{
+    margin-left: 22.5%;
+}
+.bold{
+    font-weight: bold;
+    font-size: 40px;
+}
+.numbers{
+    box-sizing: border-box;
+    background: lightblue;
+    padding: 20px 30px;
+    border-radius: 24px;
+}
+form{
+    background: whitesmoke;
+    padding: 40px;
+    border-radius: 16px;
+}
+.w-100{
+    width: 100%;
+}
+.w-50{
+    width: 50%;
+}
+form .text-left{
+    text-align: left;
+    display: block;
+}
+form .fullname{
+    text-align: left;
+}
+.firstname{
+    width: 48%;
+}
+.lastname{
+    width: 48%;
+}
+.fullname{
+    width: 100%; 
+    box-sizing: border-box;
+}
+label{
+    margin-bottom: 10px;
+
+}
+input,select{
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    padding: 10px 30px;
+    border-radius: 14px;
+    
+}
+.font-smaller{
+    font-size: 14px;
+}
+
+.firstname input, .lastname input {
+    width: 100%;
+}
+
+.text-area{
+    padding-bottom: 30px;
+}
+
+.foot-cards{
+    width: 33.33%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+footer h2{
+    color: white;
+}
+footer {
+    background-color: #242530;
+}
+
+footer p{
+    color: gray;
+}
+.terms li{
+    padding: 0px 20px;
+}
+.terms li a{
+    color: gray;
+}
+.links li a{
+    color: gray;
+}
+.social li a{
+    color: gray;
+}
+button{
+    height: 50px;
+    color: white;
+    background: #000;
+    font-size: 21px;
+}
